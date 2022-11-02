@@ -1,55 +1,55 @@
 [
   {
-	"Id": 1
+	"Id": 1,
     "Name": "Name 1",
     "Details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt ligula sed arcu ornare viverra.",
     "Image": "https://raw.githubusercontent.com/redfield-project/app_data/master/icon1.png",
 	"Deadline" : "2022-11-31T00:00:00.000Z"
   },
   {
-	"Id": 2
+	"Id": 2,
     "Name": "Name 2",
     "Details": "Nullam venenatis egestas nisl, in laoreet dui efficitur ac.",
     "Image": "https://raw.githubusercontent.com/redfield-project/app_data/master/icon2.png",
 	"Deadline" : "2022-12-31T00:00:00.000Z"
   },
   {
-	"Id": 3
+	"Id": 3,
     "Name": "Name 3",
     "Details": "Pellentesque vel tempor dui, a vulputate odio.",
     "Image": "https://raw.githubusercontent.com/redfield-project/app_data/master/icon3.png",
 	"Deadline" : "2023-01-31T00:00:00.000Z"
   },
   {
-	"Id": 4
+	"Id": 4,
     "Name": "Name 4",
     "Details": "Duis fermentum diam tempor dolor congue, at dapibus erat tempus.",
     "Image": "https://raw.githubusercontent.com/redfield-project/app_data/master/icon4.png",
 	"Deadline" : "2023-02-31T00:00:00.000Z"
   },
   {
-	"Id": 5
+	"Id": 5,
     "Name": "Name 5",
     "Details": "Donec at interdum turpis.",
     "Image": "https://raw.githubusercontent.com/redfield-project/app_data/master/icon5.png",
 	"Deadline" : "2023-03-31T00:00:00.000Z"
   },
   {
-	"Id": 6
+	"Id": 6,
     "Name": "Name 6",
     "Details": "Phasellus purus justo, malesuada at nunc vel, congue porttitor mauris.",
     "Image": "https://raw.githubusercontent.com/redfield-project/app_data/master/icon6.png",
 	"Deadline" : "2023-04-31T00:00:00.000Z"
   },
   {
-	"Id": 7
+	"Id": 7,
     "Name": "Name 7",
     "Details": "Etiam at iaculis massa.",
     "Image": "https://raw.githubusercontent.com/redfield-project/app_data/master/icon7.png",
 	"Deadline" : "2023-05-31T00:00:00.000Z"
   },
   {
-	"Id": 8
+	"Id": 8,
     "Name": "Name 8",
     "Details": "Vestibulum tempus dictum sem, id rhoncus ex porttitor vel.",
     "Image": "https://raw.githubusercontent.com/redfield-project/app_data/master/icon8.png",
